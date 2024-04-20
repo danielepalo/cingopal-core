@@ -1,0 +1,28 @@
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,0 MB/384 MB - danielepalo > Start upgrade from 7.8.7
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 39,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 38,9 MB/384 MB - danielepalo > Backing up options of 7.8.7
+02-08-2023 07:01:47 - INFO  - 7.8.9 - 39,0 MB/384 MB - danielepalo > End

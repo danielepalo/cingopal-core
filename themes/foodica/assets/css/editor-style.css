@@ -1,0 +1,52 @@
+/*
+Theme Name: foodica
+Description: Used to style the TinyMCE editor.
+*/
+
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #444;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+a {
+    color: #0f7fae;
+    text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #222;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignleft {
+    float:left;
+    margin:5px 10px 5px 0;
+}
+
+.alignright {
+    float:right;
+    margin:10px 0px 10px 15px;
+}
+
+.gallery-caption,
+.wp-caption-dd {
+    color: #868686;
+    margin: 0;
+    padding: 15px 0;
+    text-align: center;
+    display: block;
+    font-style: italic;
+    line-height: 1.4;
+}

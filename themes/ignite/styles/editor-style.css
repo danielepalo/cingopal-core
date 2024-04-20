@@ -1,0 +1,288 @@
+/*===== Variables =====*/
+/* Theme Colors */
+/* Social Media Brand Colors */
+/*===== Mixins =====*/
+.mce-content-body.wp-editor {
+  margin: 0 auto;
+  padding: 0 24px !important;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased !important;
+  background: #fff;
+  font-family: "lusitana", serif;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "lusitana", serif;
+  color: #373B41;
+  -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
+  -ms-word-wrap: break-word;
+}
+
+p {
+  margin: 1.5em 0;
+}
+
+a {
+  color: #e6a117;
+  -webkit-transition: color 0.2s ease;
+  -moz-transition: color 0.2s ease;
+  -o-transition: color 0.2s ease;
+  transition: color 0.2s ease;
+}
+a:link {
+  color: #e6a117;
+}
+a:visited, a:hover, a:active {
+  color: #A87227;
+}
+
+h1, .editor-post-title textarea, h2, h3, h4, h5, h6 {
+  font-family: "lusitana", serif;
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+}
+
+h1, .editor-post-title textarea {
+  font-size: 2.625em;
+  /* 42px / 16px */
+  line-height: 1.143;
+}
+
+h2 {
+  font-size: 2.25em;
+  /* 36px / 16px */
+  line-height: 1.34;
+}
+
+h3 {
+  font-size: 1.625em;
+  /* 26px / 16px */
+  line-height: 1.85;
+}
+
+h4 {
+  font-size: 1.313em;
+  /* 21px / 16px */
+  line-height: 1.143;
+}
+
+h5 {
+  font-size: 1.125em;
+  /* 18px / 16px */
+  line-height: 1.34;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+ul,
+ol {
+  font-size: 1em;
+  padding: 0;
+  margin: 1.5em;
+}
+ul ul, ul ol,
+ol ul,
+ol ol {
+  margin: 0 1.5em;
+}
+
+ul ul,
+ol ol,
+ul ol,
+ol ul,
+li li {
+  font-size: 1em;
+}
+
+/* Markup styles */
+pre {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  background: #E8EAEE;
+  padding: 0.75em;
+}
+
+code {
+  background: #E8EAEE;
+  padding: 0 0.375em;
+}
+
+pre code {
+  padding: 0;
+}
+
+blockquote {
+  margin: 1.5em 1.5em 1.5em 0;
+  padding-left: 1.5em;
+  border-left: solid 3px #e6a117;
+}
+blockquote cite {
+  display: block;
+  text-align: right;
+}
+
+hr {
+  margin: 0.69em 0;
+}
+
+/* Table styles */
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+td,
+th {
+  padding: 0.75em;
+  border: solid 1px #303338;
+}
+
+.wp-block-table {
+  margin: 0;
+}
+.wp-block-table thead,
+.wp-block-table tfoot {
+  background: #E8EAEE;
+}
+.wp-block-table td,
+.wp-block-table th {
+  border-color: #D9DCDF;
+}
+.wp-block-table figcaption {
+  font-size: 12px;
+  line-height: 1.5;
+  margin: -18px 0 0 0;
+  color: #303338;
+  text-align: center;
+}
+
+.wp-block-table.is-style-stripes thead {
+  background: none;
+}
+.wp-block-table.is-style-stripes td,
+.wp-block-table.is-style-stripes th {
+  border-color: #D9DCDF;
+}
+
+/* Images */
+.wp-block-image {
+  margin: 0 auto;
+}
+
+.alignleft {
+  float: left;
+  margin: 0 1.5em 1.5em 0;
+}
+
+.alignright {
+  float: right;
+  margin: 0 0 1.5em 1.5em;
+}
+
+.aligncenter {
+  text-align: center;
+  margin: 1.5em auto;
+  display: block;
+}
+
+.alignnone {
+  margin: 1.5em 0;
+}
+
+img,
+.alignright,
+.alignleft,
+.aligncenter,
+.alignnone,
+.size-auto,
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail,
+.wp-block-image {
+  max-width: 100%;
+  height: auto;
+}
+img figcaption,
+.alignright figcaption,
+.alignleft figcaption,
+.aligncenter figcaption,
+.alignnone figcaption,
+.size-auto figcaption,
+.size-full figcaption,
+.size-large figcaption,
+.size-medium figcaption,
+.size-thumbnail figcaption,
+.wp-block-image figcaption {
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 3px 0 0 0;
+  color: #303338;
+  text-align: center;
+}
+
+.wp-caption-text,
+.gallery-caption,
+.wp-caption-dd {
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 3px 0 0 0;
+  color: #303338;
+  text-align: center;
+}
+
+.wp-block {
+  max-width: 733px;
+}
+
+.editor-post-title textarea {
+  color: #373B41;
+  outline: none;
+  padding: 19px;
+  font-family: "lusitana", serif;
+  font-weight: 700;
+}
+
+.wp-block[data-align=wide],
+.wp-block[data-align=full] {
+  max-width: none;
+}
+
+.wp-block-quote {
+  border-color: #e6a117;
+}
+
+.wp-block-quote.is-large {
+  padding-left: 0;
+  border-left: none;
+}
+
+.wp-block-embed {
+  margin: 1.5em 0;
+}
+
+.has-small-font-size {
+  font-size: 13px;
+}
+
+.has-regular-font-size {
+  font-size: 16px;
+}
+
+.has-large-font-size {
+  font-size: 21px;
+}
+
+.has-extra-large-font-size {
+  font-size: 36px;
+}
+
+/*# sourceMappingURL=editor-style.css.map */

@@ -1,0 +1,66 @@
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 72,9 MB/384 MB - danielepalo > Start upgrade from 8.0.6
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > Backing up options of 8.0.6
+14-01-2024 20:55:08 - INFO  - 8.0.7 - 77,0 MB/384 MB - danielepalo > End
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 73,4 MB/384 MB - danielepalo > Start upgrade from 8.0.7
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > Backing up options of 8.0.7
+27-01-2024 14:16:57 - INFO  - 8.0.9 - 77,2 MB/384 MB - danielepalo > End

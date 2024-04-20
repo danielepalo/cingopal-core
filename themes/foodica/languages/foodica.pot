@@ -1,0 +1,708 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodica\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-28 16:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#. 1: designedby, 2: link, 3: span tag closed
+#: footer.php:66
+#, php-format
+msgid " %1$sFoodica WordPress Theme by %2$s%3$s"
+msgstr ""
+
+#. 1: poweredby, 2: link, 3: span tag closed
+#: footer.php:64
+#, php-format
+msgid " %1$sPowered by %2$s%3$s"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:256
+#, php-format
+msgid " Please activate %1$s. %2$s"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:266
+#, php-format
+msgid " Please install %1$s. %2$s"
+msgstr ""
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: pagination.php:4 image.php:103
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/widgets.php:126
+msgid "- Recent in all categories -"
+msgstr ""
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "0 comments"
+msgstr ""
+
+#: inc/admin/admin.php:208
+msgid "1"
+msgstr ""
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "1 comment"
+msgstr ""
+
+#: inc/admin/admin.php:242
+msgid "10 Color Schemes"
+msgstr ""
+
+#: inc/admin/admin.php:282
+msgid "100+ Color Options"
+msgstr ""
+
+#: inc/admin/admin.php:214
+msgid "15 (5 on Homepage)"
+msgstr ""
+
+#: inc/admin/admin.php:247
+msgid "3 Slider Styles"
+msgstr ""
+
+#: inc/admin/admin.php:213
+msgid "6"
+msgstr ""
+
+#: inc/admin/admin.php:209
+msgid "6 (Featured Categories, Carousel, Author Bio, Image Box)"
+msgstr ""
+
+#: inc/admin/admin.php:287
+msgid "600+ Google Fonts"
+msgstr ""
+
+#. %s: link to the post
+#: image.php:90
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: content-single.php:47
+msgid "<h4>Tags</h4>"
+msgstr ""
+
+#: inc/admin/admin.php:75 inc/admin/admin.php:105
+msgid "About Foodica"
+msgstr ""
+
+#: inc/admin/admin.php:31
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:258
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/admin.php:267
+msgid "Advertising Options"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:71
+msgid "Archive Pages Layout (Categories)"
+msgstr ""
+
+#. Comments and trackbacks closed
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/admin/admin.php:257
+msgid "Built-in Social Buttons"
+msgstr ""
+
+#: content.php:17 content-sticky.php:17
+msgid "by"
+msgstr ""
+
+#: inc/admin/admin.php:277
+msgid "Carousel Widget"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets.php:124
+msgid "Choose category:"
+msgstr ""
+
+#: functions.php:301
+msgid "Choose the layout for this post:"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:142
+msgid "Comics"
+msgstr ""
+
+#: comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#. %s: trackback link
+#: image.php:93
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "Comments are Disabled"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr ""
+
+#: inc/admin/admin.php:207
+msgid "Custom Widgets"
+msgstr ""
+
+#: functions.php:305
+msgid "Default"
+msgstr ""
+
+#: inc/admin/admin.php:227
+msgid "Demo Content Importer"
+msgstr ""
+
+#: inc/admin/admin.php:53
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/admin/admin.php:108
+msgid "Documentation"
+msgstr ""
+
+#: content-single.php:26 content-page.php:13 content.php:28
+#: content-sticky.php:28 image.php:99
+msgid "Edit"
+msgstr ""
+
+#: searchform.php:2
+msgid "Enter your keywords..."
+msgstr ""
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: inc/admin/admin.php:262
+msgid "Extended WooCommerce Integration"
+msgstr ""
+
+#: inc/admin/admin.php:304
+msgid "Fast & Friendly Email Support"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr ""
+
+#: inc/admin/admin.php:200
+msgid "Features"
+msgstr ""
+
+#. Name of the theme
+msgid "Foodica"
+msgstr ""
+
+#: inc/admin/admin.php:100
+msgid ""
+"Foodica is perfect for creating food based blogs and recipe websites. A "
+"beautiful featured slider and WooCommerce integration mean Foodica is packed "
+"with features to help you stand out."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Foodica is perfect for creating food based blogs and recipe websites. A "
+"beautiful featured slider and WooCommerce integration mean Foodica is packed "
+"with features to help you stand out. For DEMO and more details about the PRO "
+"version look here: https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"
+msgstr ""
+
+#: inc/admin/admin.php:201
+msgid "Foodica Lite"
+msgstr ""
+
+#: inc/admin/admin.php:195
+msgid "Foodica Lite vs. Foodica PRO"
+msgstr ""
+
+#: inc/admin/admin.php:202
+msgid "Foodica PRO"
+msgstr ""
+
+#: inc/admin/admin.php:164
+msgid "Foodica Pro"
+msgstr ""
+
+#: inc/admin/admin.php:111
+msgid "Foodica Showcase"
+msgstr ""
+
+#: functions.php:31
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:46
+msgid "Footer Menu Background Color"
+msgstr ""
+
+#: functions.php:213
+msgid "Footer: Column 1"
+msgstr ""
+
+#: functions.php:222
+msgid "Footer: Column 2"
+msgstr ""
+
+#: functions.php:231
+msgid "Footer: Column 3"
+msgstr ""
+
+#: functions.php:240
+msgid "Footer: Column 4"
+msgstr ""
+
+#: functions.php:309
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page"
+msgstr ""
+
+#: inc/admin/admin.php:59 inc/admin/admin.php:122
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: functions.php:252
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:56
+msgid "Homepage Layout"
+msgstr ""
+
+#: inc/admin/admin.php:184
+msgid "http://demo.wpzoom.com/?theme=foodica"
+msgstr ""
+
+#: footer.php:64
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/admin/admin.php:138
+msgid "https://wordpress.org/support/theme/foodica"
+msgstr ""
+
+#: inc/admin/admin.php:170
+msgid "https://www.wpzom.com/wordpress-food-themes/foodica-pro/"
+msgstr ""
+
+#. Author URI of the theme
+#: footer.php:66
+msgid "https://www.wpzoom.com/"
+msgstr ""
+
+#: inc/admin/admin.php:107 inc/admin/admin.php:135
+msgid "https://www.wpzoom.com/documentation/foodica-lite/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"
+msgstr ""
+
+#: inc/admin/admin.php:110
+msgid "https://www.wpzoom.com/showcase/theme/foodica/"
+msgstr ""
+
+#: inc/admin/admin.php:61 inc/admin/admin.php:104 inc/admin/admin.php:310
+msgid "https://www.wpzoom.com/wordpress-food-themes/foodica-pro/"
+msgstr ""
+
+#: inc/admin/admin.php:167
+msgid ""
+"If you like the free version of this theme, you will LOVE the full version "
+"of Foodica which includes unique custom widgets, additional features and "
+"more useful options to customize your website."
+msgstr ""
+
+#: content-single.php:25
+msgid "in"
+msgstr ""
+
+#: inc/admin/admin.php:151
+msgid ""
+"In order to enable all theme features, it's necessary to install a few "
+"recommended plugins."
+msgstr ""
+
+#: inc/admin/admin.php:297
+msgid "Instagram Bar in the Footer"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:268
+msgid "Install"
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"It seems that we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr ""
+
+#: index.php:28
+msgid "Latest Posts"
+msgstr ""
+
+#: comments.php:14
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:184
+msgid "Load More..."
+msgstr ""
+
+#: functions.php:185
+msgid "Loading..."
+msgstr ""
+
+#: inc/admin/admin.php:222
+msgid "Magazine Layout"
+msgstr ""
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:133
+msgid "Menus"
+msgstr ""
+
+#: sidebar.php:28
+msgid "Meta"
+msgstr ""
+
+#: inc/admin/admin.php:252
+msgid "Multiple Posts Layouts"
+msgstr ""
+
+#: inc/admin/admin.php:132
+#, php-format
+msgid ""
+"Need help configuring %s? In the documentation you can find all theme "
+"related information that is needed to get your site up and running in no "
+"time."
+msgstr ""
+
+#: comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: pagination.php:5 image.php:104
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr ""
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets.php:136
+msgid "Number of posts to show:"
+msgstr ""
+
+#: content-single.php:24
+msgid "on"
+msgstr ""
+
+#: content-single.php:42 content-page.php:21 image.php:63
+msgid "Pages:"
+msgstr ""
+
+#. %s: post title
+#. %s: link to the post
+#: content.php:37 content-sticky.php:37 wpzoom-slider.php:42
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/widgets.php:71
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr ""
+
+#: functions.php:287
+msgid "Post Layout"
+msgstr ""
+
+#: content-single.php:50
+msgid "Print"
+msgstr ""
+
+#: content-single.php:50
+msgid "Print this Page"
+msgstr ""
+
+#. %7$s: title of the parent post
+#: image.php:77
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>."
+msgstr ""
+
+#: content.php:37 content-sticky.php:37 wpzoom-slider.php:42
+msgid "Read More"
+msgstr ""
+
+#. %s: link to new post page
+#: content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: sidebar.php:12
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/admin/admin.php:232
+msgid "Recipe Index"
+msgstr ""
+
+#. Name of the template
+msgid "Recipe Index (Infinite Scroll)"
+msgstr ""
+
+#: inc/admin/admin.php:237
+msgid "Recipe Shortcodes"
+msgstr ""
+
+#: inc/admin/admin.php:148 inc/admin/admin.php:155
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/admin.php:217
+msgid "Responsive Layout"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: search.php:5
+msgid "Search Results for"
+msgstr ""
+
+#: functions.php:200
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:101
+msgid "Single Pages Layout"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:86
+msgid "Single Posts Layout"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/admin.php:302
+msgid "Support"
+msgstr ""
+
+#: inc/admin/admin.php:139 inc/admin/admin.php:303
+msgid "Support Forum"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr ""
+
+#: inc/admin/admin.php:56
+#, php-format
+msgid ""
+"Thanks for using %1$s! To get started please make sure you visit our "
+"%2$swelcome page%3$s."
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:82
+#, php-format
+msgid ""
+"The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr ""
+
+#: inc/admin/admin.php:129 inc/admin/admin.php:136
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:12
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/admin/admin.php:272
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/admin.php:91
+msgid "Theme Screenshot"
+msgstr ""
+
+#: inc/widgets.php:120
+msgid "Title:"
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:293
+#, php-format
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr ""
+
+#: functions.php:29
+msgid "Top Menu"
+msgstr ""
+
+#. Only comments open
+#: image.php:95
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: inc/admin/admin.php:292
+msgid "Typography Options"
+msgstr ""
+
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:78
+msgid ""
+"Unlock more features: 10 Color Schemes, Recipe Index, 600+ Google Fonts, "
+"100+ Color options and more!"
+msgstr ""
+
+#: inc/admin/admin.php:62 inc/admin/admin.php:171 inc/admin/admin.php:311
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:77
+msgid "Upgrade to Foodica PRO"
+msgstr ""
+
+#: inc/admin/admin.php:181
+msgid ""
+"Upgrading to Foodica PRO you will unlock a dozen of unique features that "
+"will take your food blog to the next level. See in the table below just a "
+"few of the features included in the PRO version."
+msgstr ""
+
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:79
+msgid "View Foodica PRO"
+msgstr ""
+
+#: inc/admin/admin.php:185
+msgid "View Foodica PRO Demo"
+msgstr ""
+
+#: inc/admin/admin.php:96
+#, php-format
+msgid "Welcome to %1$1s %2$2s"
+msgstr ""
+
+#: inc/admin/admin.php:75
+msgid "Welcome to Foodica Theme"
+msgstr ""
+
+#: inc/admin/admin.php:178
+msgid "Why Upgrade?"
+msgstr ""
+
+#: inc/admin/admin.php:212
+msgid "Widget Areas"
+msgstr ""
+
+#: inc/widgets.php:49
+#, php-format
+msgctxt "Widget title link"
+msgid "%s &raquo;"
+msgstr ""
+
+#. Author of the theme
+msgid "WPZOOM"
+msgstr ""
+
+#: content-single.php:23
+msgid "Written by"
+msgstr ""
+
+#: inc/admin/admin.php:34
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:389
+msgid "Your request failed permission check."
+msgstr ""
+
+#: inc/jetpack/plugin-enhancements.php:396
+msgid "Your request was processed. See ya!"
+msgstr ""

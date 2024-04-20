@@ -1,0 +1,33 @@
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 73,6 MB/384 MB - danielepalo > Start upgrade from 8.0.9
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,5 MB/384 MB - danielepalo > Backing up options of 8.0.9
+25-02-2024 20:47:26 - INFO  - 8.1.5 - 77,6 MB/384 MB - danielepalo > End

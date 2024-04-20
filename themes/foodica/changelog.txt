@@ -1,0 +1,79 @@
+Foodica
+https://www.wpzoom.com/themes/foodica-lite
+
+CHANGELOG
+---------
+
+v 1.3.0
+* New: Typography section with System and Google Fonts integration in the Customizer
+* Google Fonts are now downloaded and hosted locally automatically using WPTT Webfont Loader (GDPR-compliant, as fonts are not loaded from Google's servers)
+* Multiple bug fixes in the block editor
+* Block Patterns for Food Bloggers is a recommended plugin now
+
+v 1.2.2
+* Multiple improvements and bug fixes
+
+v 1.2.1
+* Multiple improvements and bug fixes
+* Bug fix with the search field not working correctly
+
+v 1.2.0
+* Fixed a PageSpeed issue in theme: "Does not use passive listeners to improve scrolling performance"
+* Fixed issues listed in the jQuery Migrate Helper plugin
+* Multiple improvements to improve the performance of the theme
+* !!! Make sure to clear the cache after updating your theme in your caching and optimization plugins (Autoptimize, etc.)
+
+= 1.1.3 =
+* Minor bug fixes
+* Changes to admin notices
+
+= 1.1.2
+* Added new image sizes for featured images in order to improve the quality on devices with retina display (It's highly recommended to Regenerate Thumbnails - http://wp.md/regenerate)
+* Added a new menu location called "Mobile Menu". You can make use of it if you want to display a menu different than Main Menu on mobile devices (hamburger menu)
+
+= 1.1.1 =
+* Removed the "Category:" part from the Category title on archive pages
+
+= 1.1.0 =
+* Added new page template: Recipe Index
+* New section in Customizer: Theme Layout
+
+= 1.0.11 =
+* Added WooCommerce support
+* Minor bug fixes
+
+= 1.0.10 =
+* Minor bug fix in the footer area
+
+= 1.0.9 =
+* Minor bug fix with images caption
+
+= 1.0.8 =
+* Added support for Wide Blocks in Gutenberg (works best in Full-width Posts)
+* Fixing some incorrect links to documentation
+
+= 1.0.7 =
+* Added a few default widgets in the Sidebar when there are no widgets added in it.
+
+= 1.0.6 =
+* Fixed a bug which prevented to edit or create blog posts
+
+= 1.0.5 =
+* Numerous bug fixes and improvements
+
+= 1.0.4 =
+* Improved translations with comments
+* Fixed a minor bug
+
+= 1.0.3 =
+* Minor fix
+
+= 1.0.2 =
+* Fixed a translation issue
+
+= 1.0.1 =
+* Fixed minor validation problems
+* Updated readme.txt file
+
+= 1.0 =
+* Initial release

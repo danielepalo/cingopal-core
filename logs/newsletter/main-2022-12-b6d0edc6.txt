@@ -1,0 +1,2 @@
+31-12-2022 14:12:45 - ERROR - 7.5.9 - 56,6 MB/384 MB - danielepalo > Invalid json from thenewsletterplugin.com: retrying in 72 hours
+31-12-2022 14:12:45 - ERROR - 7.5.9 - 56,6 MB/384 MB - danielepalo > JSON: Host di destinazione non consentito, sblocca la connessione nel pannello di AlterVista (Risorse > Impostazioni PHP)

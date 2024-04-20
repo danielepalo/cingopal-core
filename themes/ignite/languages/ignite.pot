@@ -1,0 +1,754 @@
+# Copyright (C) 2021 Compete Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ignite 1.79\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2021-01-21 18:34:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.6\n"
+
+#: comments.php:22 comments.php:43 comments.php:66
+msgid "Be First to Comment"
+msgstr ""
+
+#: comments.php:22 comments.php:43 comments.php:66 content/comment-count.php:13
+#: content/comment-count.php:21 inc/deprecated.php:104 inc/deprecated.php:113
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:58
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this "
+"post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: comments.php:81 comments.php:97
+msgid "Comments are closed."
+msgstr ""
+
+#: content/comment-count.php:13 inc/deprecated.php:104
+msgid "Comments closed"
+msgstr ""
+
+#: content/comment-count.php:21 inc/deprecated.php:113
+msgid "Leave a Comment"
+msgstr ""
+
+#: content/further-reading.php:11 inc/deprecated.php:31
+msgid "Previous Post"
+msgstr ""
+
+#: content/further-reading.php:12 inc/deprecated.php:20
+msgid "The Previous Post"
+msgstr ""
+
+#: content/further-reading.php:15
+msgid "No Older Posts"
+msgstr ""
+
+#: content/further-reading.php:16 content/further-reading.php:32
+#: inc/deprecated.php:36 inc/deprecated.php:48
+msgid "Return to Blog"
+msgstr ""
+
+#: content/further-reading.php:27 inc/deprecated.php:43
+msgid "Next Post"
+msgstr ""
+
+#: content/further-reading.php:28 inc/deprecated.php:25
+msgid "The Next Post"
+msgstr ""
+
+#: content/further-reading.php:31
+msgid "No Newer Posts"
+msgstr ""
+
+#: content/tag-links.php:14 inc/deprecated.php:86
+msgid "View all posts tagged %s"
+msgstr ""
+
+#: content-404.php:3
+msgid "404: Page Not Found"
+msgstr ""
+
+#: content-404.php:8
+msgid ""
+"Looks like nothing was found on this url.  Double-check that the url is "
+"correct or try the search form below to find what you were looking for."
+msgstr ""
+
+#: content-attachment.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: content-attachment.php:28
+msgid "Next Image"
+msgstr ""
+
+#: content-page.php:10 content.php:14
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:28
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\" rel=\"nofollow\">%2$s WordPress "
+"Theme</a> by Compete Themes."
+msgstr ""
+
+#: functions.php:23
+msgid ""
+"Hey! Sorry to interrupt, but you've been using Ignite for a little while "
+"now. If you're happy with this theme, could you take a minute to leave a "
+"review? <i>You won't see this notice again after closing it.</i>"
+msgstr ""
+
+#: functions.php:69
+msgid "small"
+msgstr ""
+
+#: functions.php:70
+msgid "S"
+msgstr ""
+
+#: functions.php:75
+msgid "regular"
+msgstr ""
+
+#: functions.php:76
+msgid "M"
+msgstr ""
+
+#: functions.php:81
+msgid "large"
+msgstr ""
+
+#: functions.php:82
+msgid "L"
+msgstr ""
+
+#: functions.php:87
+msgid "larger"
+msgstr ""
+
+#: functions.php:88
+msgid "XL"
+msgstr ""
+
+#: functions.php:112 sidebar-primary.php:10
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "The main sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid "Primary"
+msgstr ""
+
+#: functions.php:147
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:171 functions.php:189
+msgid "(optional)"
+msgstr ""
+
+#: functions.php:176 functions.php:177
+msgid "Your Name"
+msgstr ""
+
+#: functions.php:182 functions.php:183
+msgid "Your Email"
+msgstr ""
+
+#: functions.php:188
+msgid "Your Website URL"
+msgstr ""
+
+#: functions.php:189
+msgid "Your URL"
+msgstr ""
+
+#: functions.php:210
+msgid "Your Comment"
+msgstr ""
+
+#: functions.php:211
+msgid "Enter Your Comment"
+msgstr ""
+
+#: functions.php:246 inc/customizer.php:734
+msgid "Read More"
+msgstr ""
+
+#: functions.php:310
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:743
+msgid "Customizer settings deleted."
+msgstr ""
+
+#: functions.php:759
+msgid "Scroll to the top"
+msgstr ""
+
+#: functions.php:845
+msgid "Last updated on"
+msgstr ""
+
+#: header.php:13
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumbs.php:18
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:103
+msgid "Search results for:"
+msgstr ""
+
+#: inc/breadcrumbs.php:105
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Upload, position, and resize your logo"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Font"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Choose a font family and font weight."
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Upload custom logo."
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Logo Positioning"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Up/down"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Left/right"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Increase max-width"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Increase max-height"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Add the URL for each of your social plusfiles."
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "diaspora*"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "ResearchGate"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "SlideShare"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "CodePen"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Hacker News"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Google Wallet"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "QQ"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "OK.ru"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "WeChat"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Tencent Weibo"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "PayPal"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "ArtStation"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid ""
+"Accepts Skype link protocol (<a href=\"%s\" target=\"_blank\">learn "
+"more</a>)"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Custom icon 1 URL"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Custom icon 1 image"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Custom icon 1 size (px)"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Custom icon 2 URL"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Custom icon 2 image"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Custom icon 2 size (px)"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Custom icon 3 URL"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Custom icon 3 image"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Custom icon 3 size (px)"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Pick Your Layout:"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid ""
+"Want more layouts? <a target=\"_blank\" href=\"%1$s\">Check out %2$s "
+"Plus</a>."
+msgstr ""
+
+#: inc/customizer.php:377 inc/customizer.php:799
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer.php:378 inc/customizer.php:800
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "The default font is \"Lusitana\"."
+msgstr ""
+
+#: inc/customizer.php:401
+msgid "Site Font Family"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Want more fonts? <a target=\"_blank\" href=\"%1$s\">Check out %2$s Plus</a>"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid ""
+"If you've just changed fonts, please save and refresh the page to update "
+"available weights."
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Site Font Weight"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid ""
+"Want background textures and images? <a target=\"_blank\" "
+"href=\"%1$s\">Check out %2$s Plus</a>"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Show date before posts?"
+msgstr ""
+
+#: inc/customizer.php:483 inc/customizer.php:499 inc/customizer.php:515
+#: inc/customizer.php:531 inc/customizer.php:547 inc/customizer.php:563
+#: inc/customizer.php:700 inc/customizer.php:716 inc/customizer.php:847
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:484 inc/customizer.php:500 inc/customizer.php:516
+#: inc/customizer.php:532 inc/customizer.php:548 inc/customizer.php:564
+#: inc/customizer.php:701 inc/customizer.php:717 inc/customizer.php:848
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Show author before posts?"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Show categories after posts?"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Show tags after posts?"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Show comment count after posts?"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Show prev/next post links after posts?"
+msgstr ""
+
+#: inc/customizer.php:583
+msgid "Show comments on:"
+msgstr ""
+
+#: inc/customizer.php:588 inc/customizer.php:830 index.php:4
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer.php:589 inc/customizer.php:831
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer.php:590 inc/customizer.php:832
+msgid "Attachments"
+msgstr ""
+
+#: inc/customizer.php:591 inc/customizer.php:833
+msgid "Do not show"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Edit the text in your footer"
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:642
+msgid "Add Custom CSS Here:"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:663
+msgid "Show full post on blog?"
+msgstr ""
+
+#: inc/customizer.php:668 inc/customizer.php:684 inc/customizer.php:756
+#: inc/customizer.php:772 inc/customizer.php:860
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:669 inc/customizer.php:685 inc/customizer.php:757
+#: inc/customizer.php:773 inc/customizer.php:861
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Show breadcrumbs?"
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Show post author info after posts?"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Add icon to parent menu items?"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Word count in automatic excerpts"
+msgstr ""
+
+#: inc/customizer.php:739
+msgid "Read More button text"
+msgstr ""
+
+#: inc/customizer.php:751
+msgid "Display Scroll-to-top arrow?"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "Display the date each post was last updated?"
+msgstr ""
+
+#: inc/deprecated.php:37
+msgid "This is the oldest post"
+msgstr ""
+
+#: inc/deprecated.php:49
+msgid "This is the newest post"
+msgstr ""
+
+#: inc/last-updated-meta-box.php:12
+msgid "Last Updated Date"
+msgstr ""
+
+#: inc/last-updated-meta-box.php:29
+msgid "Use Customizer setting"
+msgstr ""
+
+#: inc/last-updated-meta-box.php:32
+msgid "Show the date"
+msgstr ""
+
+#: inc/last-updated-meta-box.php:36
+msgid "Don't show the date"
+msgstr ""
+
+#: inc/review.php:113
+msgid "Click here to leave your review"
+msgstr ""
+
+#: inc/widgets/image_widget.php:9
+msgid "This %s widget displays an image."
+msgstr ""
+
+#: inc/widgets/image_widget.php:13
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/image_widget.php:43
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/image_widget.php:47
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/image_widget.php:50
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/image_widget.php:57
+msgid "Alternate text"
+msgstr ""
+
+#: inc/widgets/image_widget.php:64
+msgid "Link (optional)"
+msgstr ""
+
+#: index.php:26 index.php:32
+msgid "Previous"
+msgstr ""
+
+#: index.php:27 index.php:33
+msgid "Next"
+msgstr ""
+
+#: search.php:9
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:11
+msgid "No search results for \"%s\""
+msgstr ""
+
+#: search.php:33
+msgid "Can't find what you're looking for?  Try refining your search:"
+msgstr ""
+
+#: searchform.php:3 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:6
+msgid "Go"
+msgstr ""
+
+#: theme-options.php:5 theme-options.php:6 theme-options.php:19
+msgid "%s Dashboard"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ignite is a clean, free, and responsive blog theme. Its modern design is "
+"great for both business and personal websites. Ignite has a simple and "
+"minimalist design that looks equally great on laptops, tablets, and mobile "
+"devices. Features include: custom logo, social media icons, left- and "
+"right-sidebar layouts, five fonts, custom background colors, and many "
+"additional display options. Use it to blog about the news, food, music, "
+"fashion, or your travels. Ignite is now WooCommerce compatible, so you can "
+"even setup an eCommerce store. There is also a premium upgrade for Ignite "
+"called Ignite Plus. Ignite is also fully compatible with the new Gutenberg "
+"post editor. Preview Ignite now on desktop, tablets, and phones with the "
+"interactive live demo: https://www.competethemes.com/demos/?theme=ignite"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-width"
+msgstr ""
+
+#: comments.php:22 comments.php:43 comments.php:66 content/comment-count.php:13
+#: content/comment-count.php:21 inc/deprecated.php:104 inc/deprecated.php:113
+msgctxt "noun: 5 comments"
+msgid "% Comments"
+msgstr ""
+
+#: content/category-links.php:15 inc/deprecated.php:67
+msgctxt "View all posts in category"
+msgid "View all posts in %s"
+msgstr ""
+
+#: content/entry-meta-top.php:10 content-attachment.php:3
+msgctxt "Published DATE"
+msgid "Published"
+msgstr ""
+
+#: content/entry-meta-top.php:16 content/entry-meta-top.php:19
+msgctxt "Published by whom?"
+msgid "by"
+msgstr ""
+
+#: content/social-icons.php:61 content/social-icons.php:62
+msgctxt "noun"
+msgid "email"
+msgstr ""
+
+#: inc/customizer.php:572
+msgctxt "noun"
+msgid "Comments"
+msgstr ""
+
+#: functions.php:143
+msgctxt "COMMENTER said:"
+msgid "said:"
+msgstr ""
+
+#: functions.php:154
+msgctxt "Edit this comment"
+msgid "Edit"
+msgstr ""
+
+#: functions.php:156
+msgctxt "Reply to this comment"
+msgid "Reply"
+msgstr ""

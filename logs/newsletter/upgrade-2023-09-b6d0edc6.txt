@@ -1,0 +1,56 @@
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 61,0 MB/384 MB - danielepalo > Start upgrade from 7.8.9
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,6 MB/384 MB - danielepalo > Backing up options of 7.8.9
+11-09-2023 20:08:23 - INFO  - 7.9.2 - 63,7 MB/384 MB - danielepalo > End
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 62,5 MB/384 MB - danielepalo > Start upgrade from 7.9.2
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > Backing up options of 7.9.2
+15-09-2023 19:14:59 - INFO  - 7.9.3 - 65,1 MB/384 MB - danielepalo > End

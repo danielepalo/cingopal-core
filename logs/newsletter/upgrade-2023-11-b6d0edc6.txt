@@ -1,0 +1,33 @@
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 63,4 MB/384 MB - danielepalo > Start upgrade from 8.0.2
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,0 MB/384 MB - danielepalo > Backing up options of 8.0.2
+14-11-2023 14:48:12 - INFO  - 8.0.4 - 66,1 MB/384 MB - danielepalo > End

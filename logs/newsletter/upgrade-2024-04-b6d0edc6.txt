@@ -1,0 +1,39 @@
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 66,2 MB/384 MB - danielepalo > Start upgrade from 8.2.5
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_logs`] => Created table `avwp_newsletter_logs`
+)
+
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_8.0.6
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > Backing up options of 8.2.5
+17-04-2024 06:58:52 - INFO  - 8.3.0 - 69,9 MB/384 MB - danielepalo > End

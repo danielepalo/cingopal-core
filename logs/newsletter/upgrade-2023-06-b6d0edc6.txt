@@ -1,0 +1,58 @@
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 56,2 MB/384 MB - danielepalo > Start upgrade from 7.0.0
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+    [avwp_newsletter.source] => Added column avwp_newsletter.source
+)
+
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,1 MB/384 MB - danielepalo > Backing up options of 7.0.0
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,2 MB/384 MB - danielepalo > Migration to 7.8.0
+14-06-2023 18:23:32 - INFO  - 7.8.5 - 60,3 MB/384 MB - danielepalo > End
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 51,9 MB/384 MB -  > Start upgrade from 7.8.5
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,1 MB/384 MB -  > Backing up options of 7.8.5
+28-06-2023 08:01:27 - INFO  - 7.8.7 - 58,2 MB/384 MB -  > End

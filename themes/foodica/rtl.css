@@ -1,0 +1,168 @@
+/*
+Theme Name: Foodica
+Description: RTL stylesheet
+
+*/
+
+/* Reset */
+
+body {
+}
+
+th {
+    text-align: right;
+}
+
+/* Accessibility */
+
+.screen-reader-text:focus {
+    left: auto;
+    right: 5px;
+}
+
+/* Typography */
+
+textarea {
+    padding-right: 3px;
+}
+
+li > ul,
+li > ol {
+    margin-left: 0;
+    margin-right: 1.5em;
+}
+
+th:first-child,
+td:first-child {
+    padding-left: 0.4em;
+    padding-right: 0;
+}
+
+th:last-child,
+td:last-child {
+    padding-left: 0;
+    padding-right: 0.4em;
+}
+
+/* Forms */
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-left: 0.5em;
+    margin-right: 0;
+}
+
+/* Media */
+
+.mejs-offscreen {
+    right: -10000px;
+}
+
+
+
+
+/* Widgets */
+
+.widget ul {
+    margin: 0;
+}
+
+.search-form .search-submit {
+    left: 3px;
+    right: auto;
+}
+
+.widget .tagcloud a,
+.widget.widget_tag_cloud a,
+.wp_widget_tag_cloud a {
+    float: right;
+    margin: 4px 0 0 4px !important; /* !important to override inline styles */
+}
+
+.widget ul li li {
+    padding-left: 0;
+    padding-right: 1.5rem;
+}
+
+
+
+/* Gallery Styles */
+
+.gallery-item,
+.gallery-caption {
+    text-align: right;
+}
+
+
+.zoom-instagram-widget__item {
+    float: right;
+}
+
+
+#slider .slide-background {
+    float: left;
+}
+
+
+.main-navbar .sf-arrows .sf-with-ul:after {
+    margin: 6px 4px 0 0;
+}
+
+.sf-arrows .sf-with-ul:after {
+    margin: 2px 4px 0 0;
+}
+
+
+
+.single .post_author > img {
+    float: right;
+    margin-right: 0;
+    margin-left: 25px;
+}
+
+
+@media  (min-width: 979px) {
+
+
+    .column-widgets .widget-column {
+        margin: 0 0 0 3.5%;
+    }
+
+
+    .column-widgets .widget-column:nth-child(3n+3) {
+        margin-left: 0;
+    }
+
+
+
+    .recent-posts .post, .recent-posts .type-page {
+        margin: 0 0 30px 4%;
+    }
+
+
+
+    .recent-posts article:nth-of-type(2n+2) {
+        margin-left: 0;
+    }
+
+
+    .foodica-index .post {
+        margin: 0 0 30px 2.75% ;
+    }
+
+
+    .foodica-index article:nth-of-type(3n+3) {
+        margin-left: 0;
+    }
+
+
+
+    .content-area.full-layout .recent-posts article.post, .content-area.full-layout .recent-posts .type-page {
+        margin: 0 0 30px 2.75%;
+    }
+
+    .content-area.full-layout .recent-posts article:nth-of-type(3n+3) {
+        margin-left: 0;
+    }
+
+}

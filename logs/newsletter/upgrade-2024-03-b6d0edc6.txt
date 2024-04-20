@@ -1,0 +1,49 @@
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 76,3 MB/384 MB - danielepalo > Start upgrade from 8.1.5
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_emails`] => Created table `avwp_newsletter_emails`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_sent`] => Created table `avwp_newsletter_sent`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter`] => Created table `avwp_newsletter`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_logs`] => Created table `avwp_newsletter_user_logs`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,2 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_user_meta`] => Created table `avwp_newsletter_user_meta`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_stats`] => Created table `avwp_newsletter_stats`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Array
+(
+    [`avwp_newsletter_logs`] => Created table `avwp_newsletter_logs`
+)
+
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.0.0
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.8.5
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.8.7
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.8.9
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.9.2
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.9.3
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_7.9.9
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_8.0.0
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_8.0.1
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_8.0.2
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Deleting settings backup newsletter_backup_8.0.4
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > Backing up options of 8.1.5
+31-03-2024 14:30:09 - INFO  - 8.2.5 - 80,3 MB/384 MB - danielepalo > End

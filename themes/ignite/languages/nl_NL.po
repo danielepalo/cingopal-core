@@ -1,0 +1,940 @@
+# Copyright (C) 2014 Compete Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ignite 1.28\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-11-03 17:16:15+00:00\n"
+"PO-Revision-Date: 2018-12-03 15:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: comments.php:22 comments.php:43 comments.php:66
+msgid "Be First to Comment"
+msgstr "Wees de eerste om te reageren"
+
+#: comments.php:22 comments.php:43 comments.php:66 content/comment-count.php:13
+#: content/comment-count.php:21 inc/deprecated.php:104 inc/deprecated.php:113
+msgid "One Comment"
+msgstr "1 reactie"
+
+#: comments.php:58
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: comments.php:81 comments.php:97
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten"
+
+#: content/comment-count.php:13 inc/deprecated.php:104
+msgid "Comments closed"
+msgstr "Reacties gesloten"
+
+#: content/comment-count.php:21 inc/deprecated.php:113
+msgid "Leave a Comment"
+msgstr "Plaats een reactie"
+
+#: content/further-reading.php:11 inc/deprecated.php:31
+msgid "Previous Post"
+msgstr "Vorig artikel"
+
+#: content/further-reading.php:12 inc/deprecated.php:20
+msgid "The Previous Post"
+msgstr "Het vorige artikel"
+
+#: content/further-reading.php:15
+msgid "No Older Posts"
+msgstr "Volgend artikel"
+
+#: content/further-reading.php:16 content/further-reading.php:32
+#: inc/deprecated.php:36 inc/deprecated.php:48
+msgid "Return to Blog"
+msgstr "Terug naar blog"
+
+#: content/further-reading.php:27 inc/deprecated.php:43
+msgid "Next Post"
+msgstr "Volgend artikel"
+
+#: content/further-reading.php:28 inc/deprecated.php:25
+msgid "The Next Post"
+msgstr "Het volgende artikel"
+
+#: content/further-reading.php:31
+msgid "No Newer Posts"
+msgstr "Geen nieuwer artikel"
+
+#: content/tag-links.php:14 inc/deprecated.php:86
+msgid "View all posts tagged %s"
+msgstr "Bekijk alle artikelen getagd %s"
+
+#: content-404.php:3
+msgid "404: Page Not Found"
+msgstr "404: Pagina niet gevonden"
+
+#: content-404.php:8
+msgid ""
+"Looks like nothing was found on this url.  Double-check that the url is "
+"correct or try the search form below to find what you were looking for."
+msgstr ""
+"Er kon niets gevonden worden op deze URL. Controleer of de URL correct is of "
+"gebruik het zoekveld om te vinden wat je zoekt."
+
+#: content-attachment.php:25
+msgid "Previous Image"
+msgstr "Vorige afbeelding"
+
+#: content-attachment.php:28
+msgid "Next Image"
+msgstr "Volgende afbeelding"
+
+#: content-page.php:10 content.php:13
+msgid "Pages:"
+msgstr "Pagina's: "
+
+#: footer.php:25
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\">%2$s WordPress Theme</a> by Compete "
+"Themes."
+msgstr ""
+
+#: functions.php:22
+msgid ""
+"Hey! Sorry to interrupt, but you've been using Ignite for a little while "
+"now. If you're happy with this theme, could you take a minute to leave a "
+"review? <i>You won't see this notice again after closing it.</i>"
+msgstr ""
+
+#: functions.php:67 sidebar-primary.php:10
+msgid "Primary Sidebar"
+msgstr "Primaire sidebar"
+
+#: functions.php:69
+msgid "The main sidebar"
+msgstr "De hoofd sidebar"
+
+#: functions.php:81
+msgid "Primary"
+msgstr "Primaire"
+
+#: functions.php:102
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt beoordeeld"
+
+#: functions.php:126 functions.php:144
+msgid "(optional)"
+msgstr " (optioneel)"
+
+#: functions.php:131 functions.php:132
+msgid "Your Name"
+msgstr "Naam:"
+
+#: functions.php:137 functions.php:138
+msgid "Your Email"
+msgstr "E-mail"
+
+#: functions.php:143
+msgid "Your Website URL"
+msgstr "Website-adres"
+
+#: functions.php:144
+msgid "Your URL"
+msgstr "URL"
+
+#: functions.php:165
+msgid "Your Comment"
+msgstr "Reactie"
+
+#: functions.php:166
+msgid "Enter Your Comment"
+msgstr "Typ je reactie"
+
+#: functions.php:197 inc/customizer.php:661
+msgid "Read More"
+msgstr "Lees meer"
+
+#: functions.php:261
+msgid "Continue Reading"
+msgstr "Lees verder"
+
+#: functions.php:701
+msgid "Customizer settings deleted."
+msgstr ""
+
+#: functions.php:707
+msgid "%s successfully activated!"
+msgstr ""
+
+#: functions.php:723
+msgid "Scroll to the top"
+msgstr "Terug naar boven"
+
+#: header.php:7
+msgid "Skip to content"
+msgstr "Ga naar content"
+
+#: inc/breadcrumbs.php:18
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumbs.php:103
+msgid "Search results for:"
+msgstr "Zoekresultaten voor "
+
+#: inc/breadcrumbs.php:105
+msgid "Error 404"
+msgstr "Fout 404: pagina niet gevonden"
+
+#: inc/customizer.php:43
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:44
+msgid "Upload, position, and resize your logo"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Font"
+msgstr "Lettertype"
+
+#: inc/customizer.php:51
+msgid "Choose a font family and font weight."
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Upload custom logo."
+msgstr "Upload je eigen logo."
+
+#: inc/customizer.php:83
+msgid "Logo Positioning"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Up/down"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Left/right"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Increase max-width"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Increase max-height"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Add the URL for each of your social plusfiles."
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "SlideShare"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "CodePen"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Stack Overflow"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Hacker News"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Google Wallet"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "QQ"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "OK.ru"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "WeChat"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Tencent Weibo"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "PayPal"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid ""
+"Accepts Skype link plustocol (<a href=\"%s\" target=\"_blank\">learn more</"
+"a>)"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Pick Your Layout:"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid ""
+"Want more layouts? <a target=\"_blank\" href=\"%1$s\">Check out %2$s Plus</"
+"a>."
+msgstr ""
+
+#: inc/customizer.php:280 inc/customizer.php:694
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer.php:281 inc/customizer.php:695
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "The default font is \"Lusitana\"."
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Site Font Family"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid ""
+"Want more fonts? <a target=\"_blank\" href=\"%1$s\">Check out %2$s Plus</a>"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid ""
+"If you've just changed fonts, please save and refresh the page to update "
+"available weights."
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Site Font Weight"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid ""
+"Want background textures and images? <a target=\"_blank\" href=\"%1$s"
+"\">Check out %2$s Plus</a>"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Show date before posts?"
+msgstr ""
+
+#: inc/customizer.php:386 inc/customizer.php:402 inc/customizer.php:418
+#: inc/customizer.php:434 inc/customizer.php:450 inc/customizer.php:466
+#: inc/customizer.php:627 inc/customizer.php:643 inc/customizer.php:742
+msgid "Show"
+msgstr "Toon"
+
+#: inc/customizer.php:387 inc/customizer.php:403 inc/customizer.php:419
+#: inc/customizer.php:435 inc/customizer.php:451 inc/customizer.php:467
+#: inc/customizer.php:628 inc/customizer.php:644 inc/customizer.php:743
+msgid "Hide"
+msgstr "Verberg"
+
+#: inc/customizer.php:397
+msgid "Show author before posts?"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Show categories after posts?"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Show tags after posts?"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Show comment count after posts?"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Show prev/next post links after posts?"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Show comments on:"
+msgstr "Toon reacties op:"
+
+#: inc/customizer.php:491 inc/customizer.php:725 index.php:4
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer.php:492 inc/customizer.php:726
+msgid "Pages"
+msgstr "Pagina's"
+
+#: inc/customizer.php:493 inc/customizer.php:727
+msgid "Attachments"
+msgstr ""
+
+#: inc/customizer.php:494 inc/customizer.php:728
+msgid "Do not show"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Edit the text in your footer"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:545
+msgid "Add Custom CSS Here:"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Scroll-to-Top Arrow"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Display Scroll-to-top arrow?"
+msgstr ""
+
+#: inc/customizer.php:571 inc/customizer.php:595 inc/customizer.php:611
+#: inc/customizer.php:755
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/customizer.php:572 inc/customizer.php:596 inc/customizer.php:612
+#: inc/customizer.php:756
+msgid "No"
+msgstr "Nee"
+
+#: inc/customizer.php:580
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Show full post on blog?"
+msgstr ""
+
+#: inc/customizer.php:606
+msgid "Show breadcrumbs?"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Show post author info after posts?"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Add icon to parent menu items?"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Word count in automatic excerpts"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Read More button text"
+msgstr "Lees meer knoptekst"
+
+#: inc/deprecated.php:37
+msgid "This is the oldest post"
+msgstr "Dit is het oudste artikel"
+
+#: inc/deprecated.php:49
+msgid "This is the newest post"
+msgstr "Dit is het nieuwste artikel"
+
+#: inc/review.php:113
+msgid "Click here to leave your review"
+msgstr ""
+
+#: inc/widgets/image_widget.php:9
+msgid "This %s widget displays an image."
+msgstr ""
+
+#: inc/widgets/image_widget.php:13
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/widgets/image_widget.php:43
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/image_widget.php:47
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: inc/widgets/image_widget.php:50
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/image_widget.php:57
+msgid "Alternate text"
+msgstr ""
+
+#: inc/widgets/image_widget.php:64
+msgid "Link (optional)"
+msgstr ""
+
+#: index.php:26 index.php:32
+msgid "Previous"
+msgstr "Vorige"
+
+#: index.php:27 index.php:33
+msgid "Next"
+msgstr "Volgende"
+
+#: search.php:9
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] "%1$s zoekresultaat voor \"%2$s\""
+msgstr[1] "%1$d zoekresultaten voor \"%2$s\""
+
+#: search.php:11
+msgid "No search results for \"%s\""
+msgstr "Geen zoekresultaten voor \"%s\""
+
+#: search.php:33
+msgid "Can't find what you're looking for?  Try refining your search:"
+msgstr "Kun je niet vinden wat je zoekt? Probeer andere zoektermen:"
+
+#: searchform.php:3 searchform.php:5
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: searchform.php:4
+msgid "Search..."
+msgstr "Zoeken ..."
+
+#: searchform.php:6
+msgid "Go"
+msgstr "Gaan"
+
+#: theme-options.php:4 theme-options.php:20
+msgid "%s Dashboard"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ignite is a clean, free, and responsive blog theme. Its modern design is "
+"great for both business and personal websites. Ignite has a simple and "
+"minimalist design that looks equally great on laptops, tablets, and mobile "
+"devices. Features include: custom logo, social media icons, left- and right-"
+"sidebar layouts, five fonts, custom background colors, and many additional "
+"display options. Use it to blog about the news, food, music, fashion, or "
+"your travels. Ignite is now WooCommerce compatible, so you can even setup an "
+"eCommerce store. There is also a premium upgrade for Ignite called Ignite "
+"Plus. Preview Ignite now on desktop, tablets, and phones with the "
+"interactive live demo: https://www.competethemes.com/demos/?theme=ignite"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-width"
+msgstr ""
+
+#: comments.php:22 comments.php:43 comments.php:66 content/comment-count.php:13
+#: content/comment-count.php:21 inc/deprecated.php:104 inc/deprecated.php:113
+msgctxt "noun: 5 comments"
+msgid "% Comments"
+msgstr "% reacties"
+
+#: content/category-links.php:15 inc/deprecated.php:67
+msgctxt "View all posts in category"
+msgid "View all posts in %s"
+msgstr "Bekijk alle berichten in %s"
+
+#: content/entry-meta-top.php:10 content-attachment.php:3
+msgctxt "Published DATE"
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: content/entry-meta-top.php:16 content/entry-meta-top.php:19
+msgctxt "Published by whom?"
+msgid "by"
+msgstr "door"
+
+#: content/social-icons.php:59 content/social-icons.php:60
+msgctxt "noun"
+msgid "email"
+msgstr "E-mail"
+
+#: inc/customizer.php:475
+msgctxt "noun"
+msgid "Comments"
+msgstr "Reacties"
+
+#: functions.php:98
+msgctxt "COMMENTER said:"
+msgid "said:"
+msgstr "zei:"
+
+#: functions.php:109
+msgctxt "Edit this comment"
+msgid "Edit"
+msgstr "Bewerken"
+
+#: functions.php:111
+msgctxt "Reply to this comment"
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#~ msgid "Profile image"
+#~ msgstr "Profiel afbeelding"
+
+#~ msgid ""
+#~ "Upload an image here to use instead of your Gravatar. Perfectly square "
+#~ "images will not be cropped."
+#~ msgstr ""
+#~ "Upload hier een afbeelding om in plaats van je Gravatar te gebruiken. "
+#~ "Vierkante afbeeldingen worden niet afgesneden."
+
+#~ msgid "Your Name*"
+#~ msgstr "Naam*"
+
+#~ msgid "Your Email*"
+#~ msgstr "E-mail*"
+
+#~ msgid "%s Theme Settings"
+#~ msgstr "%s Thema instellingen"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Thema instellingen"
+
+#~ msgid "Dimensions"
+#~ msgstr "Dimensies"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Camera"
+#~ msgstr "Camera"
+
+#~ msgid "File Name"
+#~ msgstr "Bestandsnaam"
+
+#~ msgid "File Type"
+#~ msgstr "Bestands type"
+
+#~ msgid ""
+#~ "An advanced widget that gives you total control over the output of your "
+#~ "archives."
+#~ msgstr ""
+#~ "Een geavanceerde widget die je totale controle over je archieven geeft."
+
+#~ msgid "Archives"
+#~ msgstr "Archieven"
+
+#~ msgid "Select Year"
+#~ msgstr "Selecteer Jaar"
+
+#~ msgid "Select Month"
+#~ msgstr "Selecteer maand"
+
+#~ msgid "Select Week"
+#~ msgstr "Selecteer week"
+
+#~ msgid "Select Day"
+#~ msgstr "Selecteer dag"
+
+#~ msgid "Select Post"
+#~ msgstr "selecteer artikel"
+
+#~ msgid "Alphabetical"
+#~ msgstr "alfabetisch"
+
+#~ msgid "Daily"
+#~ msgstr "Dagelijks"
+
+#~ msgid "Monthly"
+#~ msgstr "Maandelijks"
+
+#~ msgid "Post By Post"
+#~ msgstr "Artikel voor artikel"
+
+#~ msgid "Weekly"
+#~ msgstr "Wekelijks"
+
+#~ msgid "Yearly"
+#~ msgstr "Jaarlijks"
+
+#~ msgid "Ascending"
+#~ msgstr "Oplopend"
+
+#~ msgid "Descending"
+#~ msgstr "Aflopend"
+
+#~ msgid "Custom"
+#~ msgstr "Op maat gemaakt"
+
+#~ msgid "Show post count?"
+#~ msgstr "Toon aantal artikelen?"
+
+#~ msgid "Authors"
+#~ msgstr "Auteurs"
+
+#~ msgid "Display Name"
+#~ msgstr "Toon naam"
+
+#~ msgid "Nice Name"
+#~ msgstr "Mooie naam"
+
+#~ msgid "Post Count"
+#~ msgstr "Hoeveelheid artikelen"
+
+#~ msgid "Registered"
+#~ msgstr "Geregistreerd"
+
+#~ msgid "List"
+#~ msgstr "Lijst"
+
+#~ msgid "None"
+#~ msgstr "Geen"
+
+#~ msgid "Exclude admin?"
+#~ msgstr "Admin uitsluiten?"
+
+#~ msgid "Show full name?"
+#~ msgstr "Volledige naam tonen?"
+
+#~ msgid "Hide empty?"
+#~ msgstr "Verberg lege?"
+
+#~ msgid "Count"
+#~ msgstr "Telling"
+
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Description"
+#~ msgstr "Beschrijving"
+
+#~ msgid "Length"
+#~ msgstr "Lengte"
+
+#~ msgid "Notes"
+#~ msgstr "Notities"
+
+#~ msgid "Owner"
+#~ msgstr "Eigenaar"
+
+#~ msgid "Random"
+#~ msgstr "Willekeurig"
+
+#~ msgid "Rating"
+#~ msgstr "Beoordeling\v"
+
+#~ msgid "Target"
+#~ msgstr "Doel"
+
+#~ msgid "Updated"
+#~ msgstr "Bijgewerkt"
+
+#~ msgid "Categorize?"
+#~ msgstr "Categoriseren?"
+
+#~ msgid "Show description?"
+#~ msgstr "Beschrijving tonen?"
+
+#~ msgid "Hide invisible?"
+#~ msgstr "Onzichtbare verbergen?"
+
+#~ msgid "Show rating?"
+#~ msgstr "Toon beoordeling?"
+
+#~ msgid "Show updated?"
+#~ msgstr "Toon bijgewerkte?"
+
+#~ msgid "Show images?"
+#~ msgstr "Toon afbeeldingen?"
+
+#~ msgid "Show name?"
+#~ msgstr "Toon naam?"
+
+#~ msgid "Show private?"
+#~ msgstr "Toon prive?"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalender"
+
+#~ msgid "Categories"
+#~ msgstr "Categorie"
+
+#~ msgid "Hierarchical?"
+#~ msgstr "Hierargisch"
+
+#~ msgid "Use description?"
+#~ msgstr "Beschrijving gebruiken?"
+
+#~ msgid "Navigation Menu"
+#~ msgstr "Navigatie menu"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigatie"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "Menu Order"
+#~ msgstr "Menu volgorde"
+
+#~ msgid "Modified"
+#~ msgstr "Aangepast"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Created"
+#~ msgstr "Aangemaakt"
+
+#~ msgid "Search"
+#~ msgstr "Zoeken"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "%s topic"
+#~ msgid_plural "%s topics"
+#~ msgstr[0] "%s onderwerp"
+#~ msgstr[1] "%s onderwerpen"
+
+#~ msgid "View"
+#~ msgstr "Bekijken"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#~ msgid "404 Not Found"
+#~ msgstr "404 Niet gevonden"
+
+#~ msgid "Search results for &#8220;%s&#8221;"
+#~ msgstr "Zoekresultaten voor &#8220;%s&#8221;"
+
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+#~ msgid "Minute %s"
+#~ msgstr "Minuut %s"
+
+#~ msgid "Week %s"
+#~ msgstr "Week %s"
+
+#~ msgid "%1$s Page %2$s"
+#~ msgstr "%1$s Pagina %2$s"
+
+#~ msgid "Post Thumbnail"
+#~ msgstr "Artikel thumbnail"
+
+#~ msgid "File Size"
+#~ msgstr "Bestand grootte"
+
+#~ msgid "Year"
+#~ msgstr "Jaar"
+
+#~ msgid "You are browsing the search results for &#8220;%s&#8221;"
+#~ msgstr "Je bent de zoekresultaten voor &#8220;%s&#8221; aan het bekijken."
+
+#~ msgid "You are browsing the site archives by time."
+#~ msgstr "Je bent de archieven op volgorde van tijd aan het bekijken."
+
+#~ msgid "You are browsing the site archives for %s."
+#~ msgstr "Je bent de archieven van %s aan het bekijken."
+
+#~ msgid "You are browsing the site archives."
+#~ msgstr "Je bent de archieven aan het bekijken."
+
+#~ msgid "Week %1$s of %2$s"
+#~ msgstr "Week %1$s van %2$s"
+
+#~ msgid "(Untitled)"
+#~ msgstr "(geen titel)"
+
+#~ msgctxt "theme customizer tab"
+#~ msgid "Default"
+#~ msgstr "standaard"
