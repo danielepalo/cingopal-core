@@ -21,6 +21,17 @@
         },
         {
           "properties": {
+            "cache_duration": "none"
+          },
+          "template": " \uf0e7 153\uea9c ",
+          "foreground": "#000000",
+          "powerline_symbol": "\ue0b0",
+          "background": "#ffff66",
+          "type": "root",
+          "style": "powerline"
+        },
+        {
+          "properties": {
             "cache_duration": "none",
             "fetch_stash_count": true,
             "fetch_status": true,
@@ -29,7 +40,7 @@
           "template": " {{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }}{{ if and (.Staging.Changed) (.Working.Changed) }} |{{ end }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }} ",
           "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
-          "background": "#fffb38",
+          "background": "#f6863b",
           "type": "git",
           "style": "powerline"
         },
@@ -46,15 +57,16 @@
           "style": "powerline"
         },
         {
+          "background": "#0184bc",
+          "foreground": "#fffef9",
+          "include_folders": ["D:/github/cingopal-core"],
+          "powerline_symbol": "\ue0c4",
           "properties": {
-            "cache_duration": "none"
+            "always_enabled": true
           },
-          "template": " \uf0e7 ",
-          "foreground": "#ffffff",
-          "powerline_symbol": "\ue0b0",
-          "background": "#ffff66",
-          "type": "root",
-          "style": "powerline"
+          "style": "powerline",
+          "template": " <#fefefe>\uf520</>  {{ .FormattedMs }} ",
+          "type": "executiontime"
         },
         {
           "properties": {
@@ -64,9 +76,10 @@
           "trailing_diamond": "\ue0b4",
           "template": " \ueb44{{ if gt .Code 0 }}{{ end }} ",
           "foreground": "#ffffff",
+          "include_folders": ["D:/github/cingopal-core"],
           "powerline_symbol": "\ue0b0",
           "background": "#962590",
-          "type": "exit",
+          "type": "status",
           "style": "powerline",
           "background_templates": [
             "{{ if gt .Code 0 }}#f1184c{{ end }}"
